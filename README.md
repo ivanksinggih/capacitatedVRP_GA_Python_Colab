@@ -3,6 +3,7 @@
   
 Consider the following problem:  
 ![image](https://user-images.githubusercontent.com/42261330/123304956-84fedc00-d55a-11eb-80d2-0ca94aade700.png)  
+  
 A trucking company needs to deliver goods to all customers.  
 Demands of all customers must be satisfied by multiple trips of a single truck (or simultaneous movements of multiple trucks).  
 Each truck's trip is limited to its capacity (total number of carried goods must be less than the truck's capacity).  
