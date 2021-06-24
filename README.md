@@ -1,4 +1,4 @@
-# Capacitated Vehicle Routing Problem in Python language and Google Colab platform
+# Capacitated Vehicle Routing Problem (Genetic Algorithm, Python, Google Colab)
   
 Cases:  
 - Diesel engine optimization  
